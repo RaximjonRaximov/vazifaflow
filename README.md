@@ -36,7 +36,7 @@ Oddiy todo ro‘yxatlarda vazifalar ko‘payganda nima muhimligi, nima jarayonda
 1. Repository’ni yuklab oling va loyiha papkasiga kiring:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/RaximjonRaximov/vazifaflow.git
 cd vazifaflow
 ```
 
